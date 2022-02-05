@@ -20,11 +20,48 @@ Session #16: Online and deck submission deadline
 
 ### _Student Work_
 
-| Groups | Files |
-| --- | --- |
-| Jeremy Rossman, Brian Basham, Andrew Sugaya, Andres Lopez-Pineda. "A Wizard Did It..." | Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g1_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g1_cards)) |
-| Jason Strauss, et al. "The Game of Conquest." | Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g3_rules)), Cards ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g3_cards)) |
-| Michele Pratusevich, Patrick Rodriguez, Justin Zhang, et al. "Family Dysfunction." | Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g4_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 8.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 7.5MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_b)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Groups
+{{< thclose >}}
+{{< thopen >}}
+Files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jeremy Rossman, Brian Basham, Andrew Sugaya, Andres Lopez-Pineda. "A Wizard Did It..."
+{{< tdclose >}}
+{{< tdopen >}}
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g1_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g1_cards))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jason Strauss, et al. "The Game of Conquest."
+{{< tdclose >}}
+{{< tdopen >}}
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g3_rules)), Cards ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g3_cards))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Michele Pratusevich, Patrick Rodriguez, Justin Zhang, et al. "Family Dysfunction."
+{{< tdclose >}}
+{{< tdopen >}}
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g4_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 8.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 7.5MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_b))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Second Assignment: Board Game
 -----------------------------
@@ -40,10 +77,39 @@ Session #29: Showcase and submission deadline
 
 ### Student Work
 
-| Groups | Files |
-| --- | --- |
-| Alec Thomson, Andrew Sugaya, et al. "Black Hat." | Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_cards)), Board (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_board)) |
-| Michele Pratusevich, Brian Basham, Jason Strauss, et al. "Tough Luck, Dodo." | Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g2_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mitcms_608f10_p2g2_cards)) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Groups
+{{< thclose >}}
+{{< thopen >}}
+Files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Alec Thomson, Andrew Sugaya, et al. "Black Hat."
+{{< tdclose >}}
+{{< tdopen >}}
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_cards)), Board (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_board))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Michele Pratusevich, Brian Basham, Jason Strauss, et al. "Tough Luck, Dodo."
+{{< tdclose >}}
+{{< tdopen >}}
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g2_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mitcms_608f10_p2g2_cards))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Third Assignment: Game For A Client
 -----------------------------------
@@ -59,8 +125,45 @@ Session #39: Showcase and submission deadline
 
 ### Student Work
 
-| Groups | Files |
-| --- | --- |
-| Andres Lopez-Pineda, Alec Thomson, Owen Macindoe, Jayson Lynch. "Patience With Patients" | Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_rules)), Cards ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_cards)), Character Sheets ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_chars)), Words ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_words)) |
-| Michele Pratusevich, Andrew Sugaya, Ian Ynda-Hummel, et al. "I Can't Get No Satisfaction." | Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g2_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 7.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 9.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_b)) |
-| Brian Basham, Jeremy Rossman, Jason Strauss, et al. "Keep Your Cool." | Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_cards))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Groups
+{{< thclose >}}
+{{< thopen >}}
+Files
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Andres Lopez-Pineda, Alec Thomson, Owen Macindoe, Jayson Lynch. "Patience With Patients"
+{{< tdclose >}}
+{{< tdopen >}}
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_rules)), Cards ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_cards)), Character Sheets ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_chars)), Words ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_words))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Michele Pratusevich, Andrew Sugaya, Ian Ynda-Hummel, et al. "I Can't Get No Satisfaction."
+{{< tdclose >}}
+{{< tdopen >}}
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g2_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 7.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 9.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_b))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Brian Basham, Jeremy Rossman, Jason Strauss, et al. "Keep Your Cool."
+{{< tdclose >}}
+{{< tdopen >}}
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_cards))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
