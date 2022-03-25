@@ -38,7 +38,7 @@ Files
 Jeremy Rossman, Brian Basham, Andrew Sugaya, Andres Lopez-Pineda. "A Wizard Did It..."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g1_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g1_cards))
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g1_rules)), Cards ([PDF - 1.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g1_cards))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,7 +56,7 @@ Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g3_rules)), Cards ([PDF](
 Michele Pratusevich, Patrick Rodriguez, Justin Zhang, et al. "Family Dysfunction."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g4_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 8.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 7.5MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_b))
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p1g4_rules)), Cards ([PDF 1 of 2 - 8.2MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_a)) ([PDF 2 of 2 - 7.5MB]({{< baseurl >}}/resources/mitcms_608f10_p1g4_cards_b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -95,7 +95,7 @@ Files
 Alec Thomson, Andrew Sugaya, et al. "Black Hat."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_cards)), Board (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_board))
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_rules)), Cards ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_cards)), Board ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_board))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -104,7 +104,7 @@ Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g1_rules)), Cards (![This
 Michele Pratusevich, Brian Basham, Jason Strauss, et al. "Tough Luck, Dodo."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g2_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.5MB]({{< baseurl >}}/resources/mitcms_608f10_p2g2_cards))
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p2g2_rules)), Cards ([PDF - 1.5MB]({{< baseurl >}}/resources/mitcms_608f10_p2g2_cards))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +152,7 @@ Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g1_rules)), Cards ([PDF](
 Michele Pratusevich, Andrew Sugaya, Ian Ynda-Hummel, et al. "I Can't Get No Satisfaction."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g2_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1 of 2 - 7.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_a)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2 of 2 - 9.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_b))
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g2_rules)), Cards ([PDF 1 of 2 - 7.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_a)) ([PDF 2 of 2 - 9.9MB]({{< baseurl >}}/resources/mitcms_608f10_p3g2_cards_b))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,7 +161,7 @@ Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g2_rules)), Cards (![This
 Brian Basham, Jeremy Rossman, Jason Strauss, et al. "Keep Your Cool."
 {{< tdclose >}}
 {{< tdopen >}}
-Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_rules)), Cards (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_cards))
+Rules ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_rules)), Cards ([PDF]({{< baseurl >}}/resources/mitcms_608f10_p3g3_cards))
 {{< tdclose >}}
 
 {{< trclose >}}

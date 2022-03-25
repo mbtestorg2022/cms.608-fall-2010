@@ -90,7 +90,7 @@ Core dynamics, MDA, verbs
 
 \[CGD\] Chapter 2
 
-Hunicke, Robin, Marc LeBlanc, and Robert Zubek. "MDA: A Formal Approach to Game Design and Game Research." In _Proceedings of the Challenges in Game AI Workshop at the 19th National Conference on Artificial Intelligence_. San Jose, CA: AAAI Press, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.cs.northwestern.edu/%7Ehunicke/MDA.pdf))
+Hunicke, Robin, Marc LeBlanc, and Robert Zubek. "MDA: A Formal Approach to Game Design and Game Research." In _Proceedings of the Challenges in Game AI Workshop at the 19th National Conference on Artificial Intelligence_. San Jose, CA: AAAI Press, 2004. ([PDF](http://www.cs.northwestern.edu/%7Ehunicke/MDA.pdf))
 
 Church, Doug. "[Formal Abstract Design Tools](http://www.gamasutra.com/view/feature/3357/formal_abstract_design_tools.php)." _Gamasutra_, July 16 1999.
 
